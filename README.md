@@ -28,6 +28,10 @@
 - `Dockerfile` → Docker build instructions
 - `docker-compose.yml` → Multi-container orchestration
 ---
+## ⚡ Quick Start (One Command)  
+
+```bash
+docker-compose up --build -d
 
 
 
