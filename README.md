@@ -28,7 +28,8 @@
 - `Dockerfile` → Docker build instructions
 - `docker-compose.yml` → Multi-container orchestration
 ---
-![Browser Output](screenshots/browser_output(5000 port).png)
+
+
 
 
 
