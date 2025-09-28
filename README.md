@@ -22,6 +22,13 @@
 - 📦 Docker & Docker Compose  
 
 ---
+### Files to Create
+- `app.py` → Flask app
+- `requirements.txt` → Dependencies
+- `Dockerfile` → Docker build instructions
+- `docker-compose.yml` → Multi-container orchestration
+---
+![Browser Output](screenshots/browser_output(5000 port).png)
 
 
 
